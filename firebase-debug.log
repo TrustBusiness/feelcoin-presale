@@ -1,0 +1,25 @@
+[debug] [2021-06-30T13:31:39.894Z] ----------------------------------------------------------------------
+[debug] [2021-06-30T13:31:39.896Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Administrator\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2021-06-30T13:31:39.897Z] CLI Version:   9.14.0
+[debug] [2021-06-30T13:31:39.897Z] Platform:      win32
+[debug] [2021-06-30T13:31:39.897Z] Node Version:  v16.1.0
+[debug] [2021-06-30T13:31:39.898Z] Time:          Wed Jun 30 2021 06:31:39 GMT-0700 (Pacific Daylight Time)
+[debug] [2021-06-30T13:31:39.898Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2021-06-30T13:31:39.911Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-06-30T13:31:39.911Z] > authorizing via signed-in user (trust.business2021@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  D:\_blockchain_workspace\feelcoin\FeelCoin-Presale
+
+Before we get started, keep in mind:
+
+  * You are initializing within an existing Firebase project directory
+
